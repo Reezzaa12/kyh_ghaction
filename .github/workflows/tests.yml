@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: action/checkout@v3
+    - uses: actions/checkout@v3
 
     - name: Set up .NET
       uses: actions/setup-dotnet@v3
@@ -19,4 +19,5 @@ jobs:
     - name: restore dependencies
       run: dotnet restore
 
-    
+    - name: Run Unit tests
+      run: dotnet test
