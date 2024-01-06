@@ -97,3 +97,4 @@ C:\Users\reza-\calc\calcclass\obj\Debug\net8.0\refint\calcclass.dll
 C:\Users\reza-\calc\calcclass\obj\Debug\net8.0\calcclass.pdb
 C:\Users\reza-\calc\calcclass\obj\Debug\net8.0\calcclass.genruntimeconfig.cache
 C:\Users\reza-\calc\calcclass\obj\Debug\net8.0\ref\calcclass.dll
+C:\Users\reza-\calc\calcclass\obj\Debug\net8.0\calcclass.sourcelink.json
